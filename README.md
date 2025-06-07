@@ -58,7 +58,8 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
     └── index.css
     └── Readme.md
 
-##  Screenshots of the app
-![image 1](image.png)
-![Image 2](image2.png)
-![image 3](image3.png)
+## Screenshots of the app
+
+![Image 1](assets/image.png)
+![Image 2](assets/image2.png)
+![Image 3](assets/image3.png)
