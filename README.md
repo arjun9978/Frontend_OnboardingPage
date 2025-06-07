@@ -28,38 +28,43 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
 
 # Folder Structure (Simplified)
 
-   src/
-    │
-    ├── components/
-    │   ├── Onboarding.tsx
-    │   ├── ProgressBar.tsx
-    │   └── steps/
-    │   |    ├── PersonalInfoStep.tsx
-    │   |    ├── BusinessInfoStep.tsx
-    │   |    └── PreferencesStep.tsx
-    │   └── Dashboard/
-    |   |   |── StatsCard.tsx
-    │   |   ├── WeelyCHrt.tsx.tsx
-    │   |
-    |   |── Dashboard.tsx
-    |   |── FormInput.tsx
-    |   |── FormSelect.tsx
-    |   |── Onboarding.tsx
-    |   |── ProgressBar.tsx
-    |
-    ├── context/
-    │   └── UserContext.tsx
-    │
-    ├── types/
-    │   └── user.ts
-    │
-    ├── App.tsx
-    ├── main.tsx
-    └── index.css
-    └── Readme.md
+ src/
+├── components/
+│ ├── Dashboard/
+│ │ ├── StatsCard.tsx
+│ │ └── WeeklyChart.tsx
+│ ├── steps/
+│ │ ├── PersonalInfoStep.tsx
+│ │ ├── BusinessInfoStep.tsx
+│ │ └── PreferencesStep.tsx
+│ ├── Dashboard.tsx
+│ ├── FormInput.tsx
+│ ├── FormSelect.tsx
+│ ├── Onboarding.tsx
+│ └── ProgressBar.tsx
+│
+├── context/
+│ └── UserContext.tsx
+│
+├── types/
+│ └── user.ts
+│
+├── App.tsx
+├── main.tsx
+├── index.css
+└── README.md
+
+vbnet
+Copy
+Edit
+
 
 ## Screenshots of the app
 
 ![Image 1](assets/image.png)
 ![Image 2](assets/image2.png)
 ![Image 3](assets/image3.png)
+![Image 4](assets/image4.png)
+
+![VIDEO ](assets/20250607-0714-44.1833356.mp4)
+
