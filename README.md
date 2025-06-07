@@ -54,16 +54,14 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
 ├── index.css
 └── README.md
 
-vbnet
-Copy
-Edit
-
-
 ## Screenshots of the app
 
 ![Image 1](assets/image.png)
 ![Image 2](assets/image2.png)
 ![Image 3](assets/image3.png)
 ![Image 4](assets/image4.png)
+
+
+## Video of the app
 
 ![Demo Video](assets/20250607-0714-44.1833356.gif)
