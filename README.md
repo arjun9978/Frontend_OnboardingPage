@@ -23,6 +23,7 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
 2. **Change the directory**
    
 cd Frontend_OnboardingPage
+---
 
 
 # Folder Structure (Simplified)
@@ -54,6 +55,8 @@ cd Frontend_OnboardingPage
 └── README.md
      </pre>
 
+---
+
 ## Screenshots of the app
 
 ![Image 1](assets/image.png)
@@ -61,6 +64,8 @@ cd Frontend_OnboardingPage
 ![Image 3](assets/image3.png)
 ![Image 4](assets/image4.png)
 
+
+---
 
 ## Video of the app
 
