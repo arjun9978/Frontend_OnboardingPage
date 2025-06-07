@@ -23,6 +23,7 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
 2. **Change the directory**
    
 cd Frontend_OnboardingPage
+
 ---
 
 ## Install dependencies
