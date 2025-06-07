@@ -18,7 +18,7 @@ A responsive multi-step onboarding flow built using **React**, **TypeScript**, *
 ##  Setup Instructions
 
 1. **Clone the repository**  
-
+https://github.com/arjun9978/Frontend_OnboardingPage.git
    
 2. **change the directory** 
    cd onboarding-app
