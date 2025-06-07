@@ -66,5 +66,4 @@ Edit
 ![Image 3](assets/image3.png)
 ![Image 4](assets/image4.png)
 
-![VIDEO ](assets/20250607-0714-44.1833356.mp4)
-
+![Demo Video](assets/20250607-0714-44.1833356.gif)
