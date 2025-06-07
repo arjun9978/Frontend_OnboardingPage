@@ -1,4 +1,4 @@
-# A fictional onboarding platform that helps teams manage projects, people, and productivity
+# A fictional onboarding frontend platform
 
 A responsive multi-step onboarding flow built using **React**, **TypeScript**, **Tailwind CSS**, and **React Router**. It collects user information across steps and saves it locally, simulating a real-world onboarding experience.
 
