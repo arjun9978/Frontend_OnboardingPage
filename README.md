@@ -26,7 +26,7 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
 
 
 # Folder Structure (Simplified)
-<pre> \```text src/
+<pre> 
  src/
 ├── components/
 │ ├── Dashboard/
@@ -52,7 +52,7 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
 ├── main.tsx
 ├── index.css
 └── README.md
-    \``` </pre>
+     </pre>
 
 ## Screenshots of the app
 
