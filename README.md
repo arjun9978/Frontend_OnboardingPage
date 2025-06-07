@@ -25,6 +25,16 @@ https://github.com/arjun9978/Frontend_OnboardingPage.git
 cd Frontend_OnboardingPage
 ---
 
+## Install dependencies
+
+
+npm install
+
+## Run the app
+
+
+npm run dev
+---
 
 # Folder Structure (Simplified)
 <pre> 
